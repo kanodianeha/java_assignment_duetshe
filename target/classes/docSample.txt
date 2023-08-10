@@ -1,0 +1,9 @@
+{
+"tradeId": "T3", 
+"version": 3,
+"cpId": "CP-3",
+"bookId": "B1",
+"maturityDate": "20/05/2014",
+"createdDate": "08/08/2023",
+"expired": "true"
+}
